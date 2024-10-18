@@ -9,6 +9,14 @@
 
 <!-- RELEASE BELOW -->
 
+### 15.36.1 (16 October 2024)
+
+- ADD SQLite RxStorage support for Expo SDK 51 with the async API `getSQLiteBasicsExpoSQLiteAsync()`
+
+### 15.36.0 (16 October 2024)
+
+- ADD option to define the RxDB Premium token in an `.env` file
+
 ### 15.35.0 (15 October 2024)
 
 - 🆕📢 New Article: [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
